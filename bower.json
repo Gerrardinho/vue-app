@@ -1,0 +1,18 @@
+{
+  "name": "vue-app",
+  "description": "A Vue.js project",
+  "authors": [
+    "Gerardo8 <gerardo.lopezre@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
