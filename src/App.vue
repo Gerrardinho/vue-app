@@ -15,7 +15,7 @@
           <ul class="nav navbar-nav">
             <li><router-link to="/hello">Hello</router-link></li>
           </ul>
-        </div><!--/.nav-collapse -->
+        </div>
       </div>
     </nav>
 
@@ -23,7 +23,7 @@
 
       <router-view></router-view>
 
-    </div><!-- /.container -->
+    </div>
   </div>
 </template>
 
